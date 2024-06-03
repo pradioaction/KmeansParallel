@@ -1,0 +1,2 @@
+# KmeansParallel
+基于openMP的对Kmeans聚类进行一个并行加速
